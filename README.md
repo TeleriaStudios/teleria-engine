@@ -1,4 +1,4 @@
-# teleria-engine
+# Teleria Engine
 The Open Source Teleria Game Engine
           By Sagan Tucker
 
